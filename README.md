@@ -23,6 +23,7 @@
 
 👉 [x] Acompanhar as mais recentes notícias sobre o GP
 
+👉 [x] Verificar o mapa do local da corrida selecionada.
 
 ============================================================================================
 
@@ -42,7 +43,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 👉 OPen Weather API: https://openweathermap.org/api
 
-https://openlayers.org/
+
+============================================================================================
+### Features Examples
+
+Notícias:
+![image](https://user-images.githubusercontent.com/62575049/160020045-2aacbb88-4e2b-4902-8db7-eccb677100f6.png)
+
+Lista de Pilotos:
+![image](https://user-images.githubusercontent.com/62575049/160020104-768ff658-f29c-43d0-bc2f-28c371c727a9.png)
+
+Calendário de Corridas e Clima:
+![image](https://user-images.githubusercontent.com/62575049/160020140-a7c826d2-823e-42eb-b593-63e2b20fa98e.png)
+
+Mapa da Corrida Selecionada:
+![image](https://user-images.githubusercontent.com/62575049/160020184-52d990cb-6998-4cd1-9e51-e71af3c9488f.png)
+
 
 
 ============================================================================================
