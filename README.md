@@ -34,6 +34,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 👉 Visual Code: https://code.visualstudio.com/download
 
+👉 Ergast Developer API: http://ergast.com/mrd/
+ 
+👉 Google Search API By apigeek: https://rapidapi.com/apigeek/api/google-search3
+
+👉 Open Layers: https://openlayers.org/
+
+👉 OPen Weather API: https://openweathermap.org/api
+
+https://openlayers.org/
+
+
 ============================================================================================
 
 ### MIT License
